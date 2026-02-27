@@ -20,7 +20,6 @@ https://galyna-kud.github.io/mindlist-cleargoals/
   npm run dev
 
 **Що має статися:**
-
 Термінал покаже щось типу:
   ▲ Next.js 16.1.6
   - Local: http://localhost:3000
