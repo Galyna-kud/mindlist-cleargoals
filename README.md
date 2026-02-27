@@ -20,9 +20,11 @@ https://galyna-kud.github.io/mindlist-cleargoals/
   npm run dev
 
 **Що має статися:**
-Термінал покаже:
-  Ready in ...ms
-  Local: http://localhost:3000
+
+Термінал покаже щось типу:
+  ▲ Next.js 16.1.6
+  - Local: http://localhost:3000
+  ✓ Ready in ...ms
 Якщо порт 3000 зайнятий — просто натисни Y (yes), або запусти з іншим портом:
   npm run dev -- -p 3001
   
