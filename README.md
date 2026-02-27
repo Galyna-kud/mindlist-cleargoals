@@ -21,7 +21,6 @@ https://galyna-kud.github.io/mindlist-cleargoals/
 
 **Що має статися:**
 Термінал покаже щось типу:
-  ▲ Next.js 16.1.6
   - Local: http://localhost:3000
   ✓ Ready in ...ms
 Якщо порт 3000 зайнятий — просто натисни Y (yes), або запусти з іншим портом:
