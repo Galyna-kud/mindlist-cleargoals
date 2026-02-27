@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/todo-list//_next/:path+",
-        "destination": "/todo-list/_next/:path+"
+        "source": "/clever-todo-list//_next/:path+",
+        "destination": "/clever-todo-list/_next/:path+"
       }
     ],
     "fallback": []
