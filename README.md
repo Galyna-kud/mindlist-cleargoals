@@ -20,9 +20,12 @@ https://galyna-kud.github.io/mindlist-cleargoals/
   npm run dev
 
 **Що має статися:**
+
 Термінал покаже щось типу:
   - Local: http://localhost:3000
-  ✓ Ready in ...ms
+  
+    ✓ Ready in ...ms
+
 Якщо порт 3000 зайнятий — просто натисни Y (yes), або запусти з іншим портом:
   npm run dev -- -p 3001
   
